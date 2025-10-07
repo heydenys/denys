@@ -2,8 +2,6 @@
 
 ## Summary
 
--
-
 This pull request contains small documentation and formatting fixes to `README.md` to resolve VS Code/markdown-lint warnings (MD041, MD026, MD022).
 
 ## What changed

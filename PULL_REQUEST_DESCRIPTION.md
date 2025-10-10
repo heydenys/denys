@@ -24,10 +24,3 @@ This pull request contains small documentation and formatting fixes to `README.m
 ------------
 
 These are non-functional, stylistic changes intended to make the Markdown adhere to common linter rules and improve readability in editors like VS Code.
-
-## Notes
-
-------------
-
-- No code changes. Safe to merge.
-- If you'd like, I can also run a markdown linter across the repository and fix any additional issues.
